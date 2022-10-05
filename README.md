@@ -1,6 +1,5 @@
 # Ecommerce_Database_Dashboard
-Ecommerce Data base from Scratch for beginners
-
+Ecommerce Data base from Scratch.
 
 # Applied Steps
 - Creating Database Using SQL Server 
