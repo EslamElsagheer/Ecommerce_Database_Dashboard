@@ -5,6 +5,7 @@ Ecommerce Data base from Scratch for beginners
 # Applied Steps
 - Creating Database Using SQL Server 
 - Building ERD Diagram in SQL Server
+- Data Integration From CSV File to SQL Server Using SSIS
 - Importing Data From SQL Server to Power BI 
 - Data Cleaning Using Power Query in Power BI
 - Data Modeling Using Power Query in Power BI
